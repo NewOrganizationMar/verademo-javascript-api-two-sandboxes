@@ -1,4 +1,4 @@
-<img src="https://help.veracode.com/internal/api/webapp/header/logo" width="200" /><br>  e
+<img src="https://help.veracode.com/internal/api/webapp/header/logo" width="200" /><br> q
 # Verademo API  
   
 ## What is this about  
